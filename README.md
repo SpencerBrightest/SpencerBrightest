@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 I'm Spencer, 
-I Building modern software with the latest stack. Web, mobile, SaaS,
-Aspiring cyber security expert,
+👋 I'm Spencer, </br>
+I Building modern software with the latest stack. Web, mobile, SaaS, </br>
+Aspiring cyber security expert,</br>
 Here is the link to my portfolio: https://spencerbrightest96.vercel.app/
 
 
